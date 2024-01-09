@@ -1,0 +1,4 @@
+repository "Sound and effects@barvep@cloud"
+  path "/"
+    br "/main"
+    co "/main"
